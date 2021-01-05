@@ -1,3 +1,4 @@
 # Classipy
-classification model
-please run the code in python and place the csv file on same folder.
+Classification Model.
+
+The model will classify the software call in 10 small sub bucket using SVM algorithm.
